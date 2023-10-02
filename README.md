@@ -23,6 +23,6 @@ https://www.cnblogs.com/roronoazoro77/p/16119485.html
 https://www.cnblogs.com/roronoazoro77/p/16119485.html
 3. Code structure:
      3.1 get_driver.py is responsible for obtaining and returning the driver
-     3.2 buyin_interface includes detecting whether the current user's share is held and obtaining the share buying price on the page; the price can be modified by oneself.
+     3.2 buyin_interface includes detecting whether the current user's share is held and obtaining the share buying price on the page; the price can be modified by yourself.
      3.3 get_trade_data.py controls program execution
 4. Have fun!
